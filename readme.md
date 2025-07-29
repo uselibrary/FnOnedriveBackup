@@ -1,0 +1,5 @@
+SRC_DIR="/vol1/1000/photos"
+DEST_REMOTE="PhotoOD:/FnOS/photos"
+RCLONE_BIN="/opt/opt/FnOnedriveBackup/rclone"
+RCLONE_CONF="/opt/opt/FnOnedriveBackup/rclone.conf"
+LOG_DIR="/opt/opt/FnOnedriveBackup/error.log"
